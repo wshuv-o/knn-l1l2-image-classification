@@ -4,7 +4,7 @@ This repository contains a project that demonstrates the application of K-Neares
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Installation](#installation)
+- [Requirements](#installation)
 - [Usage](#usage)
   - [Loading CIFAR-10 Dataset](#loading-cifar-10-dataset)
   - [Data Preprocessing](#data-preprocessing)
@@ -23,7 +23,7 @@ The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 classes, with 6
 4. Apply K-Nearest Neighbors (KNN) classification with different distance metrics and values of K.
 5. Evaluate the performance of the KNN classifier using cross-validation.
 
-## Installation
+## Requirements
 
 To run this project, you need to have Python and the following libraries installed:
 
