@@ -11,7 +11,7 @@ This repository contains a project that demonstrates the application of K-Neares
   - [KNN Classification](#knn-classification)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
+- [License](#license) 
 
 ## Introduction
 
