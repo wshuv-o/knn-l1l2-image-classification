@@ -1,4 +1,4 @@
-# K-Nearest Neighbors (KNN) Classification on CIFAR-10 Dataset
+# K-Nearest Neighbors (KNN) Classification on CIFAR-10 Dataset 
 
 This repository contains a project that demonstrates the application of K-Nearest Neighbors (KNN) classification on the CIFAR-10 dataset. The project involves loading the dataset, converting the images to grayscale, normalizing the images, and then using KNN for image classification.
 
